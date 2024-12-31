@@ -4,7 +4,7 @@ A project utilizing machine learning techniques to segment customers based on pu
 
 ## Features:
 
-Data preprocessing and visualization
+Data preprocessing and visualization  
 Implementation of clustering algorithms
 Analysis of customer segments
 Insights for marketing strategies
